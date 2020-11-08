@@ -20,11 +20,11 @@ Spine2Wwise allows you to synchronize Spine Events with Wwise Events. <br>
 
 ## Step 1
 
-- Download and Integrate the latest [Spine Runtime For Unity](http://it.esotericsoftware.com/spine-unity-download)
+- Download and integrate the latest [Spine Runtime For Unity](http://it.esotericsoftware.com/spine-unity-download)
 
 ## Step 2
 
- - Download and Integrate the latest [Wwise-Unity Integration package](https://www.audiokinetic.com/library/2017.1.9_6501/?source=Unity&id=main.html)
+ - Download and integrate the latest [Wwise-Unity Integration package](https://www.audiokinetic.com/library/2017.1.9_6501/?source=Unity&id=main.html)
 
 ## Step 3
 
@@ -43,7 +43,7 @@ Spine2Wwise allows you to synchronize Spine Events with Wwise Events. <br>
 </p>
 
 ## Step 5
- - Add the Spine2Wwise script as component to your spine game object and use size to
+ - Add the Spine2Wwise script as component to your Spine game object and use size to
 choose your animations number.
 
 <p align="left">
